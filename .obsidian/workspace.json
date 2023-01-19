@@ -4,32 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b437d09a5d3701dc",
+        "id": "ae641659643b908a",
         "type": "tabs",
         "children": [
           {
-            "id": "8e1945551fe00456",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "33bd058ff49ea21a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/_sidebar.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92dd63b1d415ef70",
+            "id": "928e074ed44c4ced",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -41,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,12 +155,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "92dd63b1d415ef70",
+  "active": "928e074ed44c4ced",
   "lastOpenFiles": [
     "docs/_sidebar.md",
+    "docs/README.md",
     "docs/java/_sidebar.md",
     "docs/java/JVM.md",
-    "docs/README.md",
     "docs/demo/_sidebar.md",
     "docs/demo/demoS.md"
   ]
