@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "29e717170fef71e9",
+        "id": "d99d2ce7ba573f9a",
         "type": "tabs",
         "children": [
           {
-            "id": "e8af1ca3fd434dd1",
+            "id": "70bfe07e1e596c4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/数据结构导论/第一章 概论.md",
+                "file": "docs/README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/数据结构导论/第一章 概论.md",
+                "file": "docs/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/数据结构导论/第一章 概论.md",
+                "file": "docs/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/数据结构导论/第一章 概论.md"
+                "file": "docs/README.md"
               }
             }
           },
@@ -143,31 +143,30 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "e8af1ca3fd434dd1",
+  "active": "edf04f6c19f82c36",
   "lastOpenFiles": [
+    "docs/数据结构导论/第四章 树和二叉树.md",
+    "docs/_media/二叉树五种基本形态.png",
+    "docs/数据结构导论/第五章 图.md",
+    "docs/数据结构导论/第三章 栈、队列和数组.md",
+    "docs/数据结构导论/第六章 查找.md",
+    "docs/数据结构导论/第二章 线性表.md",
     "docs/数据结构导论/第一章 概论.md",
-    "docs/README.md",
-    "docs/_media/cim.jpeg",
-    "docs/_media/Drawing 2023-01-29 20.15.59.excalidraw.md",
-    "docs/_media/favicon.jpeg",
-    "docs/_media/Drawing 2023-01-29 20.15.59.excalidraw.svg",
-    "docs/_sidebar.md",
-    "docs/computer/_sidebar.md",
-    "数据库系统原理.md",
-    "管理经济学.md"
+    "docs/数据结构导论/数据结构导论.md",
+    "docs/数据结构导论/第七章 排序.md",
+    "docs/README.md"
   ]
 }
