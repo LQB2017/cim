@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/README.md",
+                "file": "docs/数据结构导论/数据结构导论.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7a7d024ca7b2ed8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/数据库系统原理/数据库系统原理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/README.md",
+                "file": "docs/数据结构导论/数据结构导论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/README.md",
+                "file": "docs/数据结构导论/数据结构导论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/README.md"
+                "file": "docs/数据结构导论/数据结构导论.md"
               }
             }
           },
@@ -156,17 +169,20 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "edf04f6c19f82c36",
+  "active": "70bfe07e1e596c4f",
   "lastOpenFiles": [
-    "docs/数据结构导论/第四章 树和二叉树.md",
-    "docs/_media/二叉树五种基本形态.png",
+    "docs/README.md",
+    "docs/管理经济学/管理经济学.md",
+    "docs/数据库系统原理/数据库系统原理.md",
+    "docs/数据结构导论/数据结构导论.md",
+    "docs/信息系统开发与管理/信息系统开发与管理.md",
     "docs/数据结构导论/第五章 图.md",
+    "docs/数据结构导论/第四章 树和二叉树.md",
     "docs/数据结构导论/第三章 栈、队列和数组.md",
+    "docs/_media/二叉树五种基本形态.png",
     "docs/数据结构导论/第六章 查找.md",
     "docs/数据结构导论/第二章 线性表.md",
     "docs/数据结构导论/第一章 概论.md",
-    "docs/数据结构导论/数据结构导论.md",
-    "docs/数据结构导论/第七章 排序.md",
-    "docs/README.md"
+    "docs/数据结构导论/第七章 排序.md"
   ]
 }
